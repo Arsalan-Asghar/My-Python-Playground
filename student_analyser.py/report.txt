@@ -1,0 +1,161 @@
+Report Generated On: 2026-06-08 00:07:50
+==================================================
+------------Analysis-----------
+==================================================
+
+Name: Arsalan Asghar
+  Machine Learning: 51
+  Probability and Statistics: 58
+  Database Management System: 81
+  Operating System: 59
+  Compiler Construction: 75
+Mean of marks: 64.80
+Highest marks: 81
+Lowest marks: 51
+Arsalan Asghar: Pass
+------------------------------
+
+Name: Syed Minhaj
+  Machine Learning: 98
+  Probability and Statistics: 73
+  Database Management System: 94
+  Operating System: 97
+  Compiler Construction: 59
+Mean of marks: 84.20
+Highest marks: 98
+Lowest marks: 59
+Syed Minhaj: Pass
+------------------------------
+
+Name: Muhammad Farhan
+  Machine Learning: 85
+  Probability and Statistics: 98
+  Database Management System: 66
+  Operating System: 80
+  Compiler Construction: 71
+Mean of marks: 80.00
+Highest marks: 98
+Lowest marks: 66
+Muhammad Farhan: Pass
+------------------------------
+
+Name: Muhammad Ahmed
+  Machine Learning: 64
+  Probability and Statistics: 79
+  Database Management System: 89
+  Operating System: 84
+  Compiler Construction: 63
+Mean of marks: 75.80
+Highest marks: 89
+Lowest marks: 63
+Muhammad Ahmed: Pass
+------------------------------
+
+Name: Hammad Memon
+  Machine Learning: 99
+  Probability and Statistics: 65
+  Database Management System: 56
+  Operating System: 61
+  Compiler Construction: 52
+Mean of marks: 66.60
+Highest marks: 99
+Lowest marks: 52
+Hammad Memon: Pass
+------------------------------
+
+Name: Devraj Aswani
+  Machine Learning: 82
+  Probability and Statistics: 86
+  Database Management System: 88
+  Operating System: 69
+  Compiler Construction: 95
+Mean of marks: 84.00
+Highest marks: 95
+Lowest marks: 69
+Devraj Aswani: Pass
+------------------------------
+
+Name: Ameer Hamza
+  Machine Learning: 81
+  Probability and Statistics: 93
+  Database Management System: 78
+  Operating System: 51
+  Compiler Construction: 99
+Mean of marks: 80.40
+Highest marks: 99
+Lowest marks: 51
+Ameer Hamza: Pass
+------------------------------
+
+Name: Hitin Puri
+  Machine Learning: 75
+  Probability and Statistics: 75
+  Database Management System: 73
+  Operating System: 51
+  Compiler Construction: 83
+Mean of marks: 71.40
+Highest marks: 83
+Lowest marks: 51
+Hitin Puri: Pass
+------------------------------
+
+Name: Anas Dal
+  Machine Learning: 88
+  Probability and Statistics: 54
+  Database Management System: 79
+  Operating System: 97
+  Compiler Construction: 93
+Mean of marks: 82.20
+Highest marks: 97
+Lowest marks: 54
+Anas Dal: Pass
+------------------------------
+
+Name: Julius
+  Machine Learning: 57
+  Probability and Statistics: 75
+  Database Management System: 55
+  Operating System: 56
+  Compiler Construction: 95
+Mean of marks: 67.60
+Highest marks: 95
+Lowest marks: 55
+Julius: Pass
+------------------------------
+
+==================================================
+------------Subject-wise Analysis-----------
+==================================================
+
+Average Score of Machine Learning: 78.00
+Highest Score of Machine Learning: 99
+Lowest Score of Machine Learning: 51
+------------------------------
+
+Average Score of Probability and Statistics: 75.60
+Highest Score of Probability and Statistics: 98
+Lowest Score of Probability and Statistics: 54
+------------------------------
+
+Average Score of Database Management System: 75.90
+Highest Score of Database Management System: 94
+Lowest Score of Database Management System: 55
+------------------------------
+
+Average Score of Operating System: 70.50
+Highest Score of Operating System: 97
+Lowest Score of Operating System: 51
+------------------------------
+
+Average Score of Compiler Construction: 78.50
+Highest Score of Compiler Construction: 99
+Lowest Score of Compiler Construction: 52
+------------------------------
+
+==================================================
+------------Overall Class Summary-----------
+==================================================
+
+Top Scorer (Highest Average): Syed Minhaj (Avg: 84.20)
+Lowest Scorer (Lowest Average): Arsalan Asghar (Avg: 64.80)
+Total average of the entire class is: 75.70
