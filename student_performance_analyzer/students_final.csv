@@ -1,0 +1,7 @@
+name,marks,grade,passed,result,grade_letter,marks_normalized
+Devraj,91.0,A,True,passed,A,1.0
+Arsalan,88.0,A,True,passed,A,0.9166666666666666
+Ahmed,79.0,B,True,passed,B,0.6666666666666666
+Minhaj,73.0,B,True,passed,B,0.5
+Farhan,61.0,C,False,passed,C,0.16666666666666666
+Hammad,55.0,C,False,failed,C,0.0
