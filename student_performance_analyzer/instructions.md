@@ -30,11 +30,3 @@ Build a script that takes `students.csv` and produces a full analysis. This shou
 **5. Sort & Export**
 - Sort the final DataFrame by `marks` descending
 - Save the final cleaned + processed DataFrame to a new CSV called `students_final.csv` using `to_csv()` (look up the syntax — it's `df.to_csv("filename.csv", index=False)`)
-
----
-
-### Structure suggestion
-
-Don't write this as one giant block. Break it into sections with comments, the same way you've been doing. You can also wrap parts into small functions if you want — your choice.
-
-This is a build, not a quiz — take your time, attempt it your own way, and show me what you get. I won't give you the code, just feedback once you're done.
