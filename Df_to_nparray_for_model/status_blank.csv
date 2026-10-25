@@ -1,0 +1,4 @@
+reading_id,temperature,pressure,humidity,status
+101,23.5,1013.2,45.0,ok
+102,24.1,1012.8,44.5,
+103,24.0,1013.8,46.2,ok
